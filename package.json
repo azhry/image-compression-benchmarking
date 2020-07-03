@@ -1,0 +1,13 @@
+{
+  "name": "image-compression-experiments",
+  "version": "1.0.0",
+  "description": "Image compression algorithm benchmarking experiment using imagemin",
+  "main": "compression.js",
+  "author": "Azhary Arliansyah",
+  "license": "MIT",
+  "dependencies": {
+    "imagemin": "^7.0.1",
+    "imagemin-pngquant": "^9.0.0",
+    "imagemin-zopfli": "^7.0.0"
+  }
+}
